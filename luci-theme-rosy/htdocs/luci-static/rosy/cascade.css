@@ -87,7 +87,7 @@
 .showSide,
 .loading > span {
     font-family: 'icomoon' !important;
-    speak: none;
+    speak-as: none;
     font-style: normal !important;
     font-weight: normal !important;
     font-variant: normal !important;
@@ -1529,7 +1529,7 @@ small {
     padding: 8.5px;
     margin: 0 0 18px;
     line-height: 1.5rem;
-    -moz-border-radius: 3px;
+    border-radius: 3px;
     white-space: pre-wrap;
     word-wrap: break-word;
     font-size: 1.4rem;
