@@ -275,4 +275,7 @@
         
     });
 
+   $('input[value="登录"]').parent('div').addClass('cbi-page-actions');
+   $('input[name="luci_username"]').attr('class','cbi-input-text');
+   $('input[name="luci_password"]').attr('class','cbi-input-text');
 })(jQuery);

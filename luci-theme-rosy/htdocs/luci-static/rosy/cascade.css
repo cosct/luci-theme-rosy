@@ -521,7 +521,6 @@ table > tbody > tr > td, table > tbody > tr > th, table > tfoot > tr > td, table
 .table > .tbody > .tr > .td, .table > .tbody > .tr > .th, .table > .tfoot > .tr > .td, .table > .tfoot > .tr > .th, .table > .thead > .tr > .td, .table > .thead > .tr > .th {
     padding: .5rem;
     border-top: 1px solid #ddd;
-    white-space: nowrap;
 }
 
 .cbi-section-table-cell {
@@ -1615,7 +1614,6 @@ header > .container > .pull-right > * {
 .login > .main fieldset {
     padding: 0.5rem;
     margin-bottom: 1rem;
-    display: inline;
     background: none;
     border: none;
     box-shadow: none;
